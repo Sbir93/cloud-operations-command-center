@@ -77,7 +77,7 @@ A fully operational AWS monitoring platform that:
 | Incident | Severity | Detection Time | Status |
 |---|---|---|---|
 | [INC-001 CPU Spike](Docs/INCIDENT_REPORT___CPU_Spike.md) | P2 | < 2 min | Resolved |
-| [INC-002 Disk Exhaustion](docs/INC-002-Disk-Exhaustion-RCA.md) | P1 | < 3 min | Resolved |
+| [INC-002 Disk Exhaustion](docs/INC-002.md) | P1 | < 3 min | Resolved |
 | [INC-003 Unauthorised Access](Docs/INCIDENT_REPORT___Unauthorised-Access.md) | P1 | < 5 min | Resolved |
 | [INC-004 Budget Breach](Docs/INCIDENT_REPORT___Budget-Breach.md) | P2 | < 10 min | Resolved |
 
@@ -85,7 +85,7 @@ A fully operational AWS monitoring platform that:
 
 ## Dashboard
 
-![Dashboard](screenshots/09-cloudwatch-dashboard.png)
+![Dashboard](Screenshots/cloud-watch-dashboard.png)
 
 ---
 
@@ -93,10 +93,10 @@ A fully operational AWS monitoring platform that:
 
 | Component | Evidence |
 |---|---|
-| All 8 Alarms Active | ![Alarms](screenshots/08-all-8-alarms-created.png) |
-| CloudTrail Active | ![CloudTrail](screenshots/10-cloudtrail-active.png) |
-| Budget Configured | ![Budget](screenshots/26-budget-dashboard.png) |
-| CPU Spike Detected | ![CPU](screenshots/15-cpu-alarm-triggered.png) |
+| All 8 Alarms Active | ![Alarms](Screenshots/cloudwatch-spike-dashboard.png) |
+| CloudTrail Active | ![CloudTrail](Screenshots/cloud-trail-active.png) |
+| Budget Configured | ![Budget](Screenshots/budget-dashboard.png) |
+| CPU Spike Detected | ![CPU](Screenshots/cpu-alarm-triggered.png) |
 
 ---
 
