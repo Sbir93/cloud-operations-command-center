@@ -76,10 +76,10 @@ A fully operational AWS monitoring platform that:
 
 | Incident | Severity | Detection Time | Status |
 |---|---|---|---|
-| [INC-001 CPU Spike](docs/INC-001-CPU-Spike-RCA.md) | P2 | < 2 min | Resolved |
+| [INC-001 CPU Spike](Docs/INCIDENT_REPORT___CPU_Spike.md) | P2 | < 2 min | Resolved |
 | [INC-002 Disk Exhaustion](docs/INC-002-Disk-Exhaustion-RCA.md) | P1 | < 3 min | Resolved |
-| [INC-003 Unauthorised Access](docs/INC-003-Unauthorised-Access-RCA.md) | P1 | < 5 min | Resolved |
-| [INC-004 Budget Breach](docs/INC-004-Budget-Breach-RCA.md) | P2 | < 10 min | Resolved |
+| [INC-003 Unauthorised Access](Docs/INCIDENT_REPORT___Unauthorised-Access.md) | P1 | < 5 min | Resolved |
+| [INC-004 Budget Breach](Docs/INCIDENT_REPORT___Budget-Breach.md) | P2 | < 10 min | Resolved |
 
 ---
 
