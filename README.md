@@ -33,7 +33,7 @@ A fully operational AWS monitoring platform that:
 
 ## Architecture
 
-![Architecture](architecture/cloudops-commandcenter-architecture.jpeg)
+![Architecture](architecture/cloudops-commandcenter-architecture.png)
 
 ---
 
