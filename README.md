@@ -93,7 +93,7 @@ A fully operational AWS monitoring platform that:
 
 | Component | Evidence |
 |---|---|
-| All 8 Alarms Active | ![Alarms](Screenshots/cloud-watch-dashboard.png) |
+| All 8 Alarms Active | ![Alarms](Screenshots/cloudwatch-spike-dashboard.png) |
 | CloudTrail Active | ![CloudTrail](Screenshots/cloud-trail-active.png) |
 | Budget Configured | ![Budget](Screenshots/budget-dashboard.png) |
 | CPU Spike Detected | ![CPU](Screenshots/cpu-alarm-triggered.png) |
